@@ -7,6 +7,9 @@ Metrics of success: RMSE < 48
 
 Source of data: Yandex
 
-Data description
-Features: datetime — time of orders
-Target: num_orders — number of orders
+Features: 
+- `datetime` — time of orders
+
+
+Target: 
+- `num_orders` — number of orders
