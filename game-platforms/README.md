@@ -4,7 +4,7 @@ The dataset consists of historical regional sales of games by platforms, ratings
 
 Purpose: 
 1) determine the most promising platforms
-2) create a typical user portrait
+2) model a typical user portrait
 3) check 2 hypotheses about user ratings
 
 Features:
