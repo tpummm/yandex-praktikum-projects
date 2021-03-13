@@ -1,6 +1,7 @@
 Churn of bank clients
 
 The dataset consists of historical behaviour of bank clients
+
 Purpose: forecast of churn probability in the nearest future
 
 Metrics of success: F1 > 0.59 (additional metric - AUC-ROC)
