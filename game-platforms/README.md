@@ -1,6 +1,6 @@
-Analysis of promising game platforms
+Analysis of promising games
 
-The dataset consists of historical regional sales of games by platforms
+The dataset consists of historical regional sales of games by platforms, ratings, genre, and scores
 
 Purpose: 
 1) determine the most promising platforms
