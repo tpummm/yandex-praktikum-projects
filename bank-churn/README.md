@@ -35,6 +35,7 @@ The dataset consists of historical behaviour of bank clients.
   - for scaling numeric data - `sklearn.preprocessing`
   - for classifier - `sklearn.ensemble`, `sklearn.linear_model`
   - for visualization - `seaborn`, `matplotlib.pyplot`
+  - for quality metrics - `sklearn.metrics`
 
 ## Results:
   - The best model to forecast bank clients' churn is Random forest with max depth of 9 and 93 estimators
