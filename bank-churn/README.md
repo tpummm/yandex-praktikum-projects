@@ -1,19 +1,18 @@
 # Churn of bank clients
 
-## Description>: 
+## Description: 
 The dataset consists of historical behaviour of bank clients.
 
-<b> Purpose: <b> forecast of churn probability in the next 6 months
+**Purpose:** forecast of churn probability in the next 6 months
   
   
-<b> Metrics of success: <b> F1 > 0.59 (additional metric - AUC-ROC)
+**Metrics of success:**  F1 > 0.59 (additional metric - AUC-ROC)
   
   
-<b>Source of data: <b> Kaggle 
-  https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling
+**Source of data:**  [Kaggle](https://www.kaggle.com/barelydedicated/bank-customer-churn-modeling)
   
   
-<b> Features <b>:
+**Features:**
 - `RowNumber` — index of row
 - `CustomerId` — unique client identifier
 - `Surname` — client's surname of client
@@ -28,9 +27,8 @@ The dataset consists of historical behaviour of bank clients.
 - `IsActiveMember` — if a client is active
 - `EstimatedSalary` — client's estimated salary 
 
-<b> Target <b>:
+**Target:**
 - `Exited` — client's churn
-
 
 ## Tools used:
   - for tables - `pandas`
@@ -38,6 +36,6 @@ The dataset consists of historical behaviour of bank clients.
   - for classifier - `sklearn.ensemble`, `sklearn.linear_model`
   - for visualization - `seaborn`, `matplotlib.pyplot`
 
-## Conclusion:
+## Results:
   - The best model to forecast bank clients' churn is Random forest with max depth of 9 and 93 estimators
   - Testing this model results in F1 = 0.6
