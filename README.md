@@ -1,5 +1,5 @@
 # yandex-praktikum-projects
-Here are data science projects accomplished in Yandex.Praktimum
+Here are some data science projects accomplished in Yandex.Praktimum
 
 Project | Description | Tools
 ------- |  ---- | ----
